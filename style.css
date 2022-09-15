@@ -12,4 +12,19 @@ html {
     --card-background-color:hsl(0, 0%, 100%);
     --text-color:hsl(220, 15%, 55%);
     --heading-text-color:hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+
 }
+
+p {
+    font-size: var(--paragraph-size);
+    text-align:center;
+    color:var(--text-color);
+    font-weight:400 ;
+}
+
+h1 {
+    color:var(--heading-text-color);
+    font-weight:700;
+}
+
