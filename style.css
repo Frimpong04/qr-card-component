@@ -1,0 +1,15 @@
+/* Global styles */
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    --paragraph-size:1.5rem;
+    --background-color:hsl(212, 45%, 89%);
+    --card-background-color:hsl(0, 0%, 100%);
+    --text-color:hsl(220, 15%, 55%);
+    --heading-text-color:hsl(218, 44%, 22%);
+}
