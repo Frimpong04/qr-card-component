@@ -28,7 +28,7 @@ h1 {
     color:var(--heading-text-color);
     font-weight:700;
     font-size:2.5rem;
-    text-align:justify;
+    text-align:left;
 }
 
 body {
@@ -69,4 +69,14 @@ body {
 
 .text-section {
     margin:1rem 0;
+}
+
+/* media queries */
+@media screen and (max-width:375px){
+    html {
+        font-size:50%;
+    }
+    .main {
+        max-width:80%;
+    }
 }
