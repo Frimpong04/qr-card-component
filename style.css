@@ -13,6 +13,7 @@ html {
     --text-color:hsl(220, 15%, 55%);
     --heading-text-color:hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
+    --mobile-size:375px;
 
 }
 
