@@ -29,6 +29,7 @@ h1 {
     font-weight:700;
     font-size:2.5rem;
     text-align:left;
+    margin-bottom: 2rem;
 }
 
 body {
@@ -52,7 +53,11 @@ body {
     border-radius:2rem;
 }
 
-
+img {
+    width:100%;
+    border-radius:2rem;
+    margin-bottom: 2rem;
+}
 
 /* media queries */
 @media screen and (max-width:375px){
